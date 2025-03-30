@@ -203,4 +203,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Note-Z embraces the Gen-Z philosophy: focus on what matters right now, reject digital clutter, and start fresh often. The weekly reset feature isn't just a technical function—it's a lifestyle choice that promotes digital minimalism.
 
-![Gen-Z Philosophy](images/philosophy.png)
+![Gen-Z Philosophy](assets/genz-philosophy.jpg)
